@@ -14,10 +14,10 @@ def func_BigO_cal():
     plt.ylabel('Relative Runtime')
     plt.xlabel('n')
     for i in range(len(Big_O)):
+        #Plotting
         plt.plot(n,Big_O[i],label=labels[i])
     plt.legend(labels)
     plt.show()
-    exit()
 
 
 
