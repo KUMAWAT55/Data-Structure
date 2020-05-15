@@ -13,7 +13,7 @@ def solver(array):
         if P-i >2:
             return 'Too chaotic'
         for j in range(max(P-1,0),i):
-            print("j:", j, "max:", max(P-1,0))
+            print("j:", j, "max:", max(P-1,0),"arrray--j:",array_check[j],"P:",P)
             if array_check[j]>P:
                 print("True")
                 count+=1

@@ -30,5 +30,6 @@ class dynamic_array(object):
 
 if  __name__=='__main__':
     arr=dynamic_array()
+    print(type(arr))
     arr.append(1)
     print(arr[1])
