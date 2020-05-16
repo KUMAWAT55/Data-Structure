@@ -10,7 +10,6 @@ The inspiration for this repo was acquired through the Udemy .
 
 
 - [Array](#array)
-- [List](#list)
-- [Stack](#stack)
-- [Queue](#queue)
-- [Dictionary](#dictionary)
+- [BigO_Comparision](#BigO_Comparision)
+- [Hackerrank](#Hackerrank)
+- [Stack&Queue](#Stack&Queue)
