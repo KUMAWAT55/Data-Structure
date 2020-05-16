@@ -9,7 +9,7 @@ to understand and implement these data structures using any language of your cho
 The inspiration for this repo was acquired through the Udemy .
 
 
-- [Array](/tree/master/Array)
+- [Array](https://github.com/KUMAWAT55/Data-Structure/tree/master/Array)
 - [BigO_Comparision](#BigO_Comparision)
 - [Hackerrank](#Hackerrank)
 - [Stack&Queue](#Stack&Queue)
