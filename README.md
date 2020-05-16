@@ -9,6 +9,7 @@ The inspiration for this repo was acquired through the Udemy .
 
 
 - [Array](https://github.com/KUMAWAT55/Data-Structure/tree/master/Array)
+![Array](images/array-declaraction.jpg)
 - [BigO_Comparision](https://github.com/KUMAWAT55/Data-Structure/tree/master/BigO_Comparision)
 - [Hackerrank](https://github.com/KUMAWAT55/Data-Structure/tree/master/Hackerrank)
 - [Stack&Queue](https://github.com/KUMAWAT55/Data-Structure/tree/master/Stack&Queue)
