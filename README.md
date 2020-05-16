@@ -12,5 +12,7 @@ The inspiration for this repo was acquired through the Udemy .
 
   ![Array](images/array-declaraction.jpg)
 - [BigO_Comparision](https://github.com/KUMAWAT55/Data-Structure/tree/master/BigO_Comparision)
+
+  ![BigO_Comparision](images/BigO-OutputPlot.png)
 - [Hackerrank](https://github.com/KUMAWAT55/Data-Structure/tree/master/Hackerrank)
 - [Stack&Queue](https://github.com/KUMAWAT55/Data-Structure/tree/master/Stack&Queue)
