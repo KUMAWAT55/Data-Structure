@@ -16,3 +16,5 @@ The inspiration for this repo was acquired through the Udemy .
   ![BigO_Comparision](images/BigO-OutputPlot.png)
 - [Hackerrank](https://github.com/KUMAWAT55/Data-Structure/tree/master/Hackerrank)
 - [Stack&Queue](https://github.com/KUMAWAT55/Data-Structure/tree/master/Stack&Queue)
+
+  ![Stack&Queue](images/Stack&Queue.png)
