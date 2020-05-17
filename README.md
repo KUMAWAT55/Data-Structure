@@ -9,7 +9,7 @@ The inspiration for this repo was acquired through the Udemy .
 
 
 - [Array](https://github.com/KUMAWAT55/Data-Structure/tree/master/Array)
-
+An array is collection of items stored at contiguous memory locations. 
   ![Array](images/array-declaraction.jpg)
 - [BigO_Comparision](https://github.com/KUMAWAT55/Data-Structure/tree/master/BigO_Comparision)
 
