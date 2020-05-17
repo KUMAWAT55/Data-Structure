@@ -19,12 +19,15 @@ The inspiration for this repo was acquired through the Udemy .
   ![Hackerrank](images/hackerrank-logo.jpg)
 - [LinkedList](https://github.com/KUMAWAT55/Data-Structure/tree/master/LinkedList)
 
-  ![Hackerrank](images/Linkedlist.png)
+  ![LinkedList](images/Linkedlist.png)
 - [Recursion](https://github.com/KUMAWAT55/Data-Structure/tree/master/Recursion)  
 
-  ![Hackerrank](images/Recursion.jpg)
+  ![Recursion](images/Recursion.jpg)
 
 
 - [Stack&Queue](https://github.com/KUMAWAT55/Data-Structure/tree/master/Stack&Queue)
 
   ![Stack&Queue](images/Stack&Queue.png)
+- [Trees](https://github.com/KUMAWAT55/Data-Structure/tree/master/Trees)
+
+  ![Trees](images/Trees.png)
