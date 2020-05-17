@@ -3,7 +3,7 @@
 This is a repository of abstract data structures written in Python.
 This repo covers the essential information that every serious programmer needs to know about algorithms and 
 data structures, thus provides the basic requirements to understand and implement 
-these data structures using python3 language.
+these data structures using **python3** language.
 
 The inspiration for this repo was acquired through the Udemy .
 
