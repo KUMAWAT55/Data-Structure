@@ -10,7 +10,8 @@ The inspiration for this repo was acquired through the Udemy .
 
 - [Array](https://github.com/KUMAWAT55/Data-Structure/tree/master/Array)
 
-An array is collection of items stored at contiguous memory locations. 
+An array is collection of items stored at contiguous memory locations.
+This module defines an object type which can compactly represent an array of basic values: characters, integers, floating point numbers
   ![Array](images/array-declaraction.jpg)
 - [BigO_Comparision](https://github.com/KUMAWAT55/Data-Structure/tree/master/BigO_Comparision)
 
