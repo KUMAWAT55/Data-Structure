@@ -32,4 +32,10 @@ This module defines an object type which can compactly represent an array of bas
   ![Stack&Queue](images/Stack&Queue.png)
 - [Trees](https://github.com/KUMAWAT55/Data-Structure/tree/master/Trees)
 
+The tree data structure has a root branches and leaves.
+So just like a tree in nature you have a similar structure.
+The difference between a tree in nature and a tree computer science 
+though is that a tree data structure
+has its root at the top and its leaves at the bottom so it branches downwards.
   ![Trees](images/Trees.png)
+  
