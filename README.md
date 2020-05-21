@@ -37,5 +37,6 @@ So just like a tree in nature you have a similar structure.
 The difference between a tree in nature and a tree computer science 
 though is that a tree data structure
 has its root at the top and its leaves at the bottom so it branches downwards.
+
   ![Trees](images/Trees.png)
   
