@@ -1,5 +1,5 @@
 def no_idea(n,m,array,A,B):
-        return [(i in A)-(i in B) for i in array]
+        return sum([(i in A)-(i in B) for i in array])
 
 
 if __name__=='__main__':
