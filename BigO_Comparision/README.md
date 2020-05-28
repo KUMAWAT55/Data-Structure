@@ -19,3 +19,7 @@ When trying to characterize an algorithm’s efficiency in terms of execution ti
 The order of magnitude function describes the part of ```T(n)``` that increases the fastest as the value of ```n``` increases. Order of magnitude is often called ```Big-O``` notation (for “order”) and written as ```O(f(n))```. It provides a useful approximation to the actual number of steps in the computation. The function ```f(n)``` provides a simple representation of the dominant part of the original ```T(n)```.
 
 As another example, suppose that for some algorithm, the exact number of steps is ```T(n)=5n^2+27n+1005```. When n is small, say 1 or 2, the constant 1005 seems to be the dominant part of the function. However, as ```n``` gets larger, the ```n^2``` term becomes the most important. In fact, when n is really large, the other two terms become insignificant in the role that they play in determining the final result. Again, to approximate ```T(n)``` as ```n``` gets large, we can ignore the other terms and focus on ```5n^2```. In addition, the coefficient 5 becomes insignificant as ```n``` gets large. We would say then that the function ```T(n)``` has an order of magnitude ```f(n)=n^2```, or simply that it is ```O(n2)```.
+
+![](images/common_func.PNG)  
+
+![](images/BigO-OutputPlot.png)  
