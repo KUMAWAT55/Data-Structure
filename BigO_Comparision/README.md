@@ -13,6 +13,7 @@ The benchmark technique computes the actual time to execute. It does not really 
 ![](images/Algo_analysis.PNG)
 
 #Big-O Notation
+
 When trying to characterize an algorithm’s efficiency in terms of execution time, independent of any particular program or computer, it is important to quantify the number of operations or steps that the algorithm will require. If each of these steps is considered to be a basic unit of computation, then the execution time for an algorithm can be expressed as the number of steps required to solve the problem. Deciding on an appropriate basic unit of computation can be a complicated problem and will depend on how the algorithm is implemented.
 
 The order of magnitude function describes the part of ```T(n)``` that increases the fastest as the value of ```n``` increases. Order of magnitude is often called ```Big-O``` notation (for “order”) and written as ```O(f(n))```. It provides a useful approximation to the actual number of steps in the computation. The function ```f(n)``` provides a simple representation of the dominant part of the original ```T(n)```.
